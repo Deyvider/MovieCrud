@@ -4,11 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-	  <UserSecretsId>deyvid</UserSecretsId>
-	  <BaseOutputPath>bin</BaseOutputPath>
-	  <DockerDefaultTargetOs>Linux</DockerDefaultTargetOs>
-	  <DockerDefaultTargetOs>Linux</DockerDefaultTargetOs>
-	  <InvariantGlobalization>true</InvariantGlobalization>
+	
   </PropertyGroup>
 
   <ItemGroup>
